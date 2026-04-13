@@ -106,7 +106,7 @@ pip install mysql-connector-python
 connection = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="tu_contraseña",
+    password="0118232428Jb",
     database="elsurtidor"
 )
 ```
